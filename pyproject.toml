@@ -1,0 +1,14 @@
+[project]
+name = "image-qa-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.102.0",
+    "gradio>=6.14.0",
+    "opencv-python-headless>=4.13.0.92",
+    "pandas>=3.0.3",
+    "pillow>=12.2.0",
+    "python-dotenv>=1.2.2",
+]
