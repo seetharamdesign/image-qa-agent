@@ -141,10 +141,6 @@ You need an Anthropic API key to use this tool. Get one from [Anthropic's websit
 4. Test thoroughly
 5. Submit a pull request
 
-## License
-
-[Add your license here]
-
 ## Support
 
 For issues or questions, please open an issue on the GitHub repository.
