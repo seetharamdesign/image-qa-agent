@@ -2,6 +2,8 @@
 
 A professional product image quality assessment tool that uses Claude AI to compare raw product images against AI-generated versions and provide detailed fidelity analysis.
 
+Watch Demo [here](https://drive.google.com/file/d/164dKVIdJmO3pDiJArObP417zgcnWtGHM/view)
+
 ## Features
 
 - **Visual Fidelity Analysis**: Compare raw product images with AI-generated versions
